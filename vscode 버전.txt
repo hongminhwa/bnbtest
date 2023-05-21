@@ -1,0 +1,25 @@
+
+
+ㅣgit init   특정 워크스페이스를 하고 깃 폴더를 생성한다. (깃에 관련 모든 내용) 
+
+
+git clone   git repository에서 clone으로 가져온다.  원격 저장소에 복제  repository userid 패스워드.   
+
+git status   
+
+
+
+폴더 만들어서 프로젝터 생성 
+cmd    git init  하면 git 폴더 생성 
+
+readme markdown 형식으로 repository에 문서 
+관리를 하기 위해 git add  파일명  
+git add .  전체 파일 
+git status  파일 목록 참조 가능 
+git commit -message m '소개글 '  
+로컬에서 commit  
+내용을 수정하고 git add . 하면 반영이 되고  staging 
+
+ 
+
+ 
